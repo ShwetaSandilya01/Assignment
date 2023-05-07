@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextFilterAssignment", "TextFilterAssignment\TextFilterAssignment.csproj", "{10E0B62C-82EE-4984-935F-8FF62F83914E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFilterAssignment.Test", "TextFilterAssignment.Test\TextFilterAssignment.Test.csproj", "{7750FCAC-922E-4946-8CED-8F5658965021}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10E0B62C-82EE-4984-935F-8FF62F83914E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10E0B62C-82EE-4984-935F-8FF62F83914E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10E0B62C-82EE-4984-935F-8FF62F83914E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10E0B62C-82EE-4984-935F-8FF62F83914E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7750FCAC-922E-4946-8CED-8F5658965021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7750FCAC-922E-4946-8CED-8F5658965021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7750FCAC-922E-4946-8CED-8F5658965021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7750FCAC-922E-4946-8CED-8F5658965021}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C98F172-754C-4FD1-A66B-3710F9A7974C}
+	EndGlobalSection
+EndGlobal
